@@ -3,6 +3,8 @@
 #This is my Twitter CLONE Project 
 -I have used django for web framework to utilize the HTML/CSS with Python to make a web page.
 [Live Heroku Demo](https://twitterclone-yohannes.herokuapp.com/)
+
+
 ![twitterclone](https://user-images.githubusercontent.com/59063996/187495919-d5d3b545-116c-4041-8545-a21a01c70a07.jpg)
 
  
